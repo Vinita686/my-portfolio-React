@@ -32,10 +32,14 @@
         background: rgba(0, 0, 0, 0.9);
         position: absolute;
         top: 0;
-        left: 0;
+        left: -100%;
         z-index: -3;
     }
 
+    .nav-items.active {
+        left: 0;
+    }
+ 
     .nav-items li {
         padding: 1rem 0;
     }

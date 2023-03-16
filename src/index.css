@@ -8,13 +8,13 @@
  }
 
 body {
-  /* background: black; */
+  background: black;
 }
  h1,
  h4,
  p,
  a {
-  /* color: #fff; */
+  color: #fff;
   text-decoration: none;
  }
 

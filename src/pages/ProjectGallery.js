@@ -1,4 +1,4 @@
-function Gallery() {
+function Projects() {
   return (
     <div >
     Gallery
@@ -6,4 +6,4 @@ function Gallery() {
   );
 }
 
-export default Gallery;
+export default Projects;

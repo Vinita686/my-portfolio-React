@@ -14,10 +14,10 @@ const Hero = () => {
             <p>Hi, Welcome to my Portfolio.</p>
             <h1>I am a Front-End Web Developer.</h1>
         </div>
-        <div>
+        {/* <div>
             <Link to="/project" className="btn">Projects</Link>
             <Link to="/contact" className="btn btn-light">Contact</Link>
-        </div>
+        </div> */}
 
     </div>
   )

@@ -18,6 +18,10 @@
     font-weight: 500;
 }
 
+.hamburger {
+    display: none;
+}
+
 @media screen and (max-width: 1040px) {
     .nav-items{
         flex-direction: column;
@@ -38,5 +42,9 @@
 
     .nav-items li a {
         font-size: 2rem;
+    }
+     
+    .hamburger {
+        display: initial;
     }
 }

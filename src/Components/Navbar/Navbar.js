@@ -23,6 +23,9 @@ const Navbar = () => {
             <Link to="/contact">Contact</Link>
           </li>
         </ul>
+        <div className="hamburger">
+          <FaBars />
+        </div>
 
     </div>
   )

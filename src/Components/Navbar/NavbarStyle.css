@@ -26,6 +26,18 @@
     display: none;
 }
 
+.image {
+  width: 5rem;
+  height: 5rem;
+  border-radius: 2px 20%;
+  margin: 1rem;
+}
+
+.my-pic {
+    display: flex;
+    align-items: center;
+}
+
 @media screen and (max-width: 1040px) {
     .nav-items{
         flex-direction: column;

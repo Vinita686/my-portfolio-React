@@ -5,6 +5,8 @@ import { Link } from "react-router-dom";
 
 import { FaBars, FaTimes } from "react-icons/fa";
 
+import avatar from "../../assets/myImg.jpg";
+
 const Navbar = () => {
   const [click, setClick] = useState(false);
   const handleClick = () => setClick(!click);
@@ -13,7 +15,7 @@ const Navbar = () => {
   return (
     <div className="header">
       <div className="my-pic">
-        <img src=""
+        <img className="image" src={avatar} alt="avatar" />
       <Link to="/">
         <h1>Vinita Yadav</h1>
       </Link>

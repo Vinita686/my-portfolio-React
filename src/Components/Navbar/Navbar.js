@@ -12,9 +12,12 @@ const Navbar = () => {
 
   return (
     <div className="header">
+      <div className="my-pic">
+        <img src=""
       <Link to="/">
         <h1>Vinita Yadav</h1>
       </Link>
+      </div>
       <ul className={click ? "nav-items active" : "nav-items"}>
           <li>
             <Link to="/">Home</Link>

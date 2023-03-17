@@ -1,11 +1,13 @@
 import Navbar from "../Components/Navbar/Navbar";
-import Hero from "../Components/Hero/Hero";
+import Hero from "../Components/Jumbotron/Jumbotron";
+import Footer from "../Components/Footer/Footer";
 
 function Home() {
   return (
     <div >
     <Navbar />
     <Hero />
+    <Footer />
     </div>
   );
 }

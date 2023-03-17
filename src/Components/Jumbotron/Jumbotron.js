@@ -1,8 +1,8 @@
-import "./HeroStyle.css";
+import "./Jumbotron.css";
 
 import React from 'react'
-import HeroImg from "../../assets/hero_bg.jpg"
-import { Link } from "react-router-dom";
+import HeroImg from "../../assets/jumbotron.jpg"
+// import { Link } from "react-router-dom";
 
 const Hero = () => {
   return (

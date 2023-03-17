@@ -33,6 +33,9 @@ const Navbar = () => {
           <li>
             <Link to="/contact">Contact</Link>
           </li>
+          <li>
+          <a href={process.env.PUBLIC_URL + "images/Resume_Vinita.pdf"} target="_blank">Resume</a>
+          </li>
         </ul>
         <div className="hamburger" onClick={handleClick}>
           {click ? (

@@ -6,7 +6,7 @@ function Projects() {
   return (
     <div >
     <Navbar />
-    <HeroImg />
+    <HeroImg  heading="Projects." text="My recent projects." />
     <Footer />
     </div>
   );

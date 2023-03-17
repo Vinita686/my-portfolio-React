@@ -7,7 +7,7 @@ export const About = () => {
   return (
     <div>
       <Navbar />
-      <HeroImg />
+      <HeroImg heading="Hello, I'm Vinita." text="A Passionate Web Developer." />
       <Footer />
     </div>
   )

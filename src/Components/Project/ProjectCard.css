@@ -46,3 +46,19 @@
   margin-top: 30px;
   
 }
+
+/* Media queries for responsiveness of cards in smaller screens */
+@media screen and (max-width: 1040px) {
+  .projects-container {
+    width: fit-content;
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media screen and (max-width: 740px) {
+  .projects-container {
+    width: fit-content;
+    grid-template-columns: 1fr;
+  }
+  
+}

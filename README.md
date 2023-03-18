@@ -21,7 +21,7 @@
   This application is to showcase my portfolio. Have a look at my Deployed Link.
   Here's a sneak peak of different pages of the application:
   - Home 
-  ![screenshot](src\assets\home.png)
+  ![screenshot](src/assets/home.png)
   - Projects
   ![screenshot](../assets/projects.png)
   - About

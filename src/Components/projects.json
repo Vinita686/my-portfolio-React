@@ -1,47 +1,47 @@
 [
     {
         "id": 1,
-        "image": "/images/Screenshot-password-gen.png",
+        "image": "../images/Screenshot-password-gen.png",
         "title": "Password-Generator",
         "text": "This was a password generator based on prompts",
         "repo": "https://github.com/Vinita686/Password-Generator",
         "liveLink": "https://vinita686.github.io/Password-Generator/"
     },
     {
-        "id": 1,
-        "image": "/images/Screenshot-password-gen.png",
+        "id": 2,
+        "image": "../images/coding-quiz.gif",
         "title": "Password-Generator",
         "text": "This was a password generator based on prompts",
         "repo": "https://github.com/Vinita686/Password-Generator",
         "liveLink": "https://vinita686.github.io/Password-Generator/"
     },
     {
-        "id": 1,
-        "image": "/images/Screenshot-password-gen.png",
+        "id": 3,
+        "image": "../images/output_team.png",
         "title": "Password-Generator",
         "text": "This was a password generator based on prompts",
         "repo": "https://github.com/Vinita686/Password-Generator",
         "liveLink": "https://vinita686.github.io/Password-Generator/"
     },
     {
-        "id": 1,
-        "image": "/images/Screenshot-password-gen.png",
+        "id": 4,
+        "image": "../images/Plan-Go.png",
         "title": "Password-Generator",
         "text": "This was a password generator based on prompts",
         "repo": "https://github.com/Vinita686/Password-Generator",
         "liveLink": "https://vinita686.github.io/Password-Generator/"
     },
     {
-        "id": 1,
-        "image": "/images/Screenshot-password-gen.png",
+        "id": 5,
+        "image": "../images/weather-dash.png",
         "title": "Password-Generator",
         "text": "This was a password generator based on prompts",
         "repo": "https://github.com/Vinita686/Password-Generator",
         "liveLink": "https://vinita686.github.io/Password-Generator/"
     },
     {
-        "id": 1,
-        "image": "/images/Screenshot-password-gen.png",
+        "id": 6,
+        "image": "../images/work-day.png",
         "title": "Password-Generator",
         "text": "This was a password generator based on prompts",
         "repo": "https://github.com/Vinita686/Password-Generator",

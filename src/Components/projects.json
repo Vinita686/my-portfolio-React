@@ -3,48 +3,48 @@
         "id": 1,
         "image": "../images/Screenshot-password-gen.png",
         "title": "Password-Generator",
-        "text": "This was a password generator based on prompts",
+        "text": "This is a password generator app which prompts user for their choice and generates password taking thier answers.",
         "repo": "https://github.com/Vinita686/Password-Generator",
         "liveLink": "https://vinita686.github.io/Password-Generator/"
     },
     {
         "id": 2,
         "image": "../images/coding-quiz.gif",
-        "title": "Password-Generator",
-        "text": "This was a password generator based on prompts",
-        "repo": "https://github.com/Vinita686/Password-Generator",
-        "liveLink": "https://vinita686.github.io/Password-Generator/"
+        "title": "Coding Quiz",
+        "text": "An app based on Quiz questions with multiple choice questions and stores the highscores to the local storage.",
+        "repo": "https://github.com/Vinita686/Coding-quiz",
+        "liveLink": "https://vinita686.github.io/Coding-quiz/"
     },
     {
         "id": 3,
         "image": "../images/output_team.png",
-        "title": "Password-Generator",
+        "title": "Team Profile Generator",
         "text": "This was a password generator based on prompts",
-        "repo": "https://github.com/Vinita686/Password-Generator",
-        "liveLink": "https://vinita686.github.io/Password-Generator/"
+        "repo": "https://github.com/Vinita686/Team-Profile-Generator",
+        "liveLink": "https://github.com/Vinita686/Team-Profile-Generator"
     },
     {
         "id": 4,
         "image": "../images/Plan-Go.png",
-        "title": "Password-Generator",
-        "text": "This was a password generator based on prompts",
-        "repo": "https://github.com/Vinita686/Password-Generator",
-        "liveLink": "https://vinita686.github.io/Password-Generator/"
+        "title": "Plan & Go",
+        "text": "A travell planner app which allows user to check for the weather, map and latest news for a searched city.",
+        "repo": "https://github.com/zamanpour/Plan-Go",
+        "liveLink": "https://zamanpour.github.io/Plan-Go/"
     },
     {
         "id": 5,
         "image": "../images/weather-dash.png",
-        "title": "Password-Generator",
-        "text": "This was a password generator based on prompts",
-        "repo": "https://github.com/Vinita686/Password-Generator",
-        "liveLink": "https://vinita686.github.io/Password-Generator/"
+        "title": "Weather-Dashbord",
+        "text": "A front-end web application that enables a user to check for current weather and 5-day forecast for any searched city.",
+        "repo": "https://github.com/Vinita686/Weather-Dashboard",
+        "liveLink": "https://vinita686.github.io/Weather-Dashboard/"
     },
     {
         "id": 6,
         "image": "../images/work-day.png",
-        "title": "Password-Generator",
-        "text": "This was a password generator based on prompts",
-        "repo": "https://github.com/Vinita686/Password-Generator",
-        "liveLink": "https://vinita686.github.io/Password-Generator/"
+        "title": "Work Day Scheduler",
+        "text": "A calender app which allows a user to make a schedule for a day between 9am to 5pm.",
+        "repo": "https://github.com/Vinita686/Work-day-scheduler",
+        "liveLink": "https://vinita686.github.io/Work-day-scheduler/"
     }
 ]

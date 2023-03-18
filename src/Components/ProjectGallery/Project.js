@@ -9,8 +9,10 @@ const Project = () => {
     const [projects] = useState(projectData);
 
   return (
+    <>
+    <h1 className='section-heading'>Project Gallery</h1>
     <div className='projects-container'>
-        <h1 className='section-heading'>Project Gallery</h1>
+        
         {projects.map (item => (
             <ProjectCard 
             id={item.id}
@@ -23,6 +25,7 @@ const Project = () => {
         )
     )}
     </div>
+    </>
   );
 }
 

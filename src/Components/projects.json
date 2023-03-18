@@ -1,8 +1,8 @@
 [
     {
         "id": 1,
+        "image": "/images/Screenshot-password-gen.png",
         "title": "Password-Generator",
-        "image": "Screenshot-password-gen.png",
         "text": "This was a password generator based on prompts",
         "repo": "https://github.com/Vinita686/Password-Generator",
         "liveLink": "https://vinita686.github.io/Password-Generator/"

@@ -1,7 +1,7 @@
 import Navbar from "../Components/Navbar/Navbar";
 import Footer from "../Components/Footer/Footer";
 import HeroImg from "../Components/HeroImg/HeroImg";
-import Project from "../Components/Project/ProjectCard";
+import Project from "../Components/ProjectGallery/Project";
 
 function Projects() {
   return (

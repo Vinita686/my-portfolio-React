@@ -1,22 +1,22 @@
 import "./ProjectCard.css";
 
 import React from 'react';
-import { Link } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 
 
 function ProjectCard(props) {
   return (
     <div className="card-container">
       <div className="img-container">
-        <img alt="screenshot" src={process.env.PUBLIC_URL + "/images/" + props.image} />
+        <img src={process.env.PUBLIC_URL +"/images/" + props.image} alt="screenshot"  />
       </div>
       <div className="description">
         <h2 className="project-title">{props.title}</h2>
         <p>{props.text}</p>
       </div>
       <div className="project-btn">
-        <Link to={props.repo} className="btn">Repo</Link>
-        <Link to={props.liveLink} className="btn">LiveLink</Link>
+        <NavLink to={props.repo} className="btn">Repo</NavLink>
+        <NavLink to={props.liveLink} className="btn">LiveLink </NavLink>
       </div>
     </div>
   );

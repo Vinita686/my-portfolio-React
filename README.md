@@ -15,6 +15,8 @@
   ## Installation
   This application needs Installation of: 
   - React -App
+  - react-router-dom
+  - react-icons
   
 
   ## Usage
@@ -23,20 +25,27 @@
   - Home 
   ![screenshot](src/assets/home.png)
   - Projects
-  ![screenshot](../assets/projects.png)
+  ![screenshot](src/assets/projects.png)
   - About
-  ![screenshot](../assets/about.png)
+  ![screenshot](src/assets/about.png)
   - Contact
-  ![screenshot](../assets/contact.png)
+  ![screenshot](src/assets/contact.png)
+  
+  ## Credits
+  - A sincere thanks to edX bootcamp and the instructional staff for helping me to reach uptill here.
+  - My tutor Alexis Gonzalez who helped me understand the react-router concepts.
+  - A tutorial by [Tech2 etc](https://www.youtube.com/watch?v=0h2b4ftbZcU), which briefly explains the use of ract components and routers.
+  - And not to forget my friend Maudmain, she helped me to understand the whole concept when i was feeling lost.
+  - Pixabay for the images used in my application. 
 
   ## Contributing
-  You are welcome for contributing. Please ensure to craete a Pr before merging.
+  You are welcome for contributing. Please ensure to raise a PR before merging.
 
   
   ## License
-  This Application is under  License.
+  This Application is under [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) License.
 
   ## Questions
-   * Visit my [Github](vinita686) profile.
+   * Visit my [Github](Vinita686) profile.
 
   * If you have some additional questions or suggestions you can reach me at :  yadav.vinita@gmail.com

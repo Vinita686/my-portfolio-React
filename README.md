@@ -20,7 +20,7 @@
   
 
   ## Usage
-  This application is to showcase my portfolio. Have a look at my Deployed Link.
+  This application is to showcase my portfolio. Have a look at my [Deployed Application](https://vinita686.github.io/my-portfolio-react/).
   Here's a sneak peak of different pages of the application:
   - Home 
   ![screenshot](src/assets/home.png)
@@ -37,6 +37,7 @@
   - A tutorial by [Tech2 etc](https://www.youtube.com/watch?v=0h2b4ftbZcU), which briefly explains the use of ract components and routers.
   - And not to forget my friend Maudmain, she helped me to understand the whole concept when i was feeling lost.
   - Pixabay for the images used in my application. 
+  - Many thanks to my peer friend [Sansi](https://github.com/senseilein) who helped me to come out of the chaos of deployment of my site.
 
   ## Contributing
   You are welcome for contributing. Please ensure to raise a PR before merging.

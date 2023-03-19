@@ -8,10 +8,10 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 function App() {
   return (
-    <>
+  
    <BrowserRouter>
       <Routes>
-        
+        <Route path='/my-portfolio-react' element={<Home />} />
           <Route path='/' element={<Home />} />
           <Route path="/projects" element={<Projects />} />
           <Route path="/contact" element={<Contact />} />
@@ -20,7 +20,7 @@ function App() {
         
       </Routes>
     </BrowserRouter>
-    </> 
+  
   );
 }
 

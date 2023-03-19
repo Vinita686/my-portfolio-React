@@ -12,10 +12,10 @@ function App() {
    <BrowserRouter>
       <Routes>
         <Route path='/my-portfolio-react' element={<Home />} />
-          <Route path='/' element={<Home />} />
-          <Route path="my-portfolio-react/projects" element={<Projects />} />
-          <Route path="/contact" element={<Contact />} />
-          <Route path="/about" element={<About />} />
+          <Route path='/my-portfolio-react/' element={<Home />} />
+          <Route path="/my-portfolio-react/projects" element={<Projects />} />
+          <Route path="/my-portfolio-react/contact" element={<Contact />} />
+          <Route path="/my-portfolio-react/about" element={<About />} />
           {/* <Route path="*" element={<NoPage />} /> */}
         
       </Routes>

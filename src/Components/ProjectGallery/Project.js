@@ -21,7 +21,7 @@ const Project = () => {
             title={item.title} 
             text={item.text} 
             repo={item.repo} 
-            liveLink={item.liveLink} target="_blank"/>
+            liveLink={item.liveLink} />
         )
     )}
     </div>

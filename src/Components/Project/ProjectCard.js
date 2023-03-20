@@ -15,8 +15,8 @@ function ProjectCard(props) {
         <p>{props.text}</p>
       </div>
       <div className="project-btn">
-        <NavLink to={props.repo} className="btn">Repo</NavLink>
-        <NavLink to={props.liveLink} className="btn">LiveLink </NavLink>
+        <NavLink to={props.repo} target="_blank" className="btn">Repo</NavLink>
+        <NavLink to={props.liveLink} target="_blank" className="btn">LiveLink </NavLink>
       </div>
     </div>
   );

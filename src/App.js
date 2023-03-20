@@ -4,13 +4,13 @@ import Home from './pages/Home';
 import Projects from './pages/Projects';
 import About from './pages/About';
 import Contact from './pages/Contact';
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route } from "react-router-dom";
 
 function App() {
   return (
   
-   <BrowserRouter>
-    
+   <HashRouter>
+    <div>
       <Routes>
         <Route path='/' element={<Home />} />
           
@@ -18,7 +18,8 @@ function App() {
           <Route path="/contact" element={<Contact />} />
           <Route path="/about" element={<About />} />
          </Routes>
-    </BrowserRouter>
+      </div>
+    </HashRouter>
   
   );
 }

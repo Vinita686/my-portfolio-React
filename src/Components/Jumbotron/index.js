@@ -1,8 +1,9 @@
-import "./Jumbotron.css";
+import "./style.css";
 
 import React from 'react'
 import HeroImg from "../../assets/jumbotron.jpg"
-// import { Link } from "react-router-dom";
+
+
 
 const Hero = () => {
   return (
@@ -14,10 +15,6 @@ const Hero = () => {
             <p>Hi, Welcome to my Portfolio.</p>
             <h1>I am a Front-End Web Developer.</h1>
         </div>
-        {/* <div>
-            <Link to="/project" className="btn">Projects</Link>
-            <Link to="/contact" className="btn btn-light">Contact</Link>
-        </div> */}
 
     </div>
   )

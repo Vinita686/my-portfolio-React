@@ -1,8 +1,8 @@
-import Navbar from "../Components/Navbar/Navbar";
-import Footer from "../Components/Footer/Footer";
-import HeroImg from "../Components/HeroImg/HeroImg";
-import Form from "../Components/ContactForm/Form";
-import Mailto from "../Components/Mailto/Mailto";
+import Navbar from "../Components/Navbar";
+import Footer from "../Components/Footer";
+import HeroImg from "../Components/HeroImg";
+import Form from "../Components/Form";
+import Mailto from "../Components/Mailto";
 
 function Contact() {
   return (
